@@ -44,7 +44,7 @@ This project focuses on analyzing UPI (Unified Payments Interface) transactions 
   * Improved understanding of UPI trends across demographics & geographies.
 
 🔹 Snapshot:
-  * ![Dashboard Preview].(https://github.com/sakshichauhan4474-rgb/UPI-Transaction-Analysis-Dashboard-/blob/main/UPI%20Transaction%20SS.png).
+  * ![Dashboard Preview](https://github.com/sakshichauhan4474-rgb/UPI-Transaction-Analysis-Dashboard-/blob/main/UPI%20Transaction%20SS.png)
 
 
 
