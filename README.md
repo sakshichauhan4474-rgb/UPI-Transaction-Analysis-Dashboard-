@@ -43,8 +43,8 @@ This project focuses on analyzing UPI (Unified Payments Interface) transactions 
   * Easy monitoring of transaction patterns, balances, and customer behavior.
   * Improved understanding of UPI trends across demographics & geographies.
 
-🔹 Screenshot:
-  * 
+🔹 Snapshot:
+  * https://github.com/sakshichauhan4474-rgb/UPI-Transaction-Analysis-Dashboard-/blob/main/UPI%20Transaction%20SS.png
 
 
 
